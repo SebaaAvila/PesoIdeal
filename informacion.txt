@@ -1,0 +1,3 @@
+Adjunto link de la fuente donde tome las fórmulas para realizar los cálculos dentro de las operaciones en JS
+https://www.regivia.com/es/alimentacion-y-nutricion/herramientas-todas-las-formulas-de-calculo-del-peso-ideal-o-peso-optimo-kilos/calculo-del-peso-adecuado-de-hombres-y-mujeres-con-la-altura-el-peso-y-el-sexo-formula-de-devine/
+
